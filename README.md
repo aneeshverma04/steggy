@@ -1,10 +1,10 @@
 # steggy
 An image steganography encoder and decoder using LSB algorithm
 
-Created in python 3.9
-Just use python app.py to run
+Created in python 3.9.
+Just use python app.py to run.
 
-Enter input string to encode in ./resources/input.txt
+Enter input string to encode in ./resources/input.txt.
 Default image used to hide data is ./resources/mangekyo.jpg which is of 3750x5000 pixels meaning it can store around 7 million characters.
 
 Encoded image is stored in ./output/
